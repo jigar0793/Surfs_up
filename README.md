@@ -10,13 +10,13 @@ After performing the analysis on the temperature trends in June and December for
 
 1. According to the June temperatures, as shown below:
 
-image june
+<img width="150" alt="june_temps" src="https://user-images.githubusercontent.com/94248676/180894742-267e9eb9-9b0b-47e7-9dd2-aab28ab7618e.png">
 
 In June we had a total count of 1700, mean of 74.9, min of 64.0 and max of 85.0
 
 2. Analyzing the december temperatures, as follows:
 
-image december
+<img width="175" alt="december_temps" src="https://user-images.githubusercontent.com/94248676/180894775-ab58eabf-15f6-473c-a5dd-b4cb1c590f63.png">
 
 In December we had a total count of 1517, mean of 71.0, min of 56.0 and max of 83.0
 
